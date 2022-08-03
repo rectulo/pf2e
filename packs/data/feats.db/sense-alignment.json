@@ -22,7 +22,11 @@
             "value": 4
         },
         "prerequisites": {
-            "value": []
+            "value": [
+                {
+                    "value": "Edgewatch Detective Dedication"
+                }
+            ]
         },
         "rules": [],
         "source": {
